@@ -56,7 +56,7 @@ python -m streamlit run app.py
 | Speed | Slower | Very fast |
 | Best for | Chatbots, summarization, Named Entity Recognition | Document similarity, keyword matching |
 
-> Real ATS tools like Greenhouse, Workday, Taleo — they don't understand your resume like a human. They just count and match keywords statistically. TF-IDF + cosine is exactly that. So this scorer actually mimics real ATS behaviour more accurately than spaCy would have.
+> Real ATS tools like Greenhouse, Workday, Taleo - they don't understand your resume like a human. They just count and match keywords statistically. TF-IDF + cosine is exactly that. So this scorer actually mimics real ATS behaviour more accurately than spaCy would have.
 
 ---
 
