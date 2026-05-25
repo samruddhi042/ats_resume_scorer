@@ -21,7 +21,7 @@ A Streamlit web app that scores how well your resume matches a job description u
 pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## How It Works
